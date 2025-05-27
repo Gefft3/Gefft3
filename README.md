@@ -46,3 +46,5 @@ DevRel Researcher analyzing positive feedback patterns in StackOverflow interact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/geffte-caetano/) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Gefft3) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/geffte.caetano/)
+
+![GitHub Snake](https://github.com/Gefft3/Gefft3/blob/output/github-contribution-grid-snake.svg)

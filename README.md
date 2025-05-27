@@ -1,4 +1,4 @@
-# Hello 👋
+# Hello There 👋
 
 I'm undergraduate Computer Science at UFMS. I really appreciate technology, development and automation, basically what's new.
 

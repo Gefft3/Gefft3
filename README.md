@@ -4,16 +4,22 @@ I'm undergraduate Computer Science at UFMS. I really appreciate technology, deve
 
 ## 🚀 Ongoing Projects
 
-### 🤖 AraraBots 
+### 🤖 AraraBots
+
 Software Tech Lead for the only competitive undergraduate robotics team in Mato Grosso do Sul, specializing in Drone and Small Size League (SSL) robotics. Developed autonomous flight control with LiDAR, robot communication with ROS2, and strategic AI solutions. Achieved 4th place in LARC 2024.
 
-### 🐛 CigarrinhaWeb 
+### 🐛 CigarrinhaWeb
+
 Full Stack Developer for a web platform enabling pest monitoring and control in Paraná. Built responsive interfaces with React and Tailwind CSS, scalable backend with Node.js and PostgreSQL, and implemented early infestation detection and alerts to support farmers and researchers.
+
 ## 💼 Previous Experiences
 
-### 😷 ECOS da Rota 
+### 😷 ECOS da Rota
+
 AI Engineer for a participatory epidemiological surveillance project. Integrated LLaMA 3.1 via Ollama API and developed a RAG pipeline to automate data classification and insights generation, improving analysis accuracy by 60%.
-### 🌟 Developer Community Sentiment Analysis 
+
+### 🌟 Developer Community Sentiment Analysis
+
 Researched and analyzed developer community interactions. Fine-tuned NLP models (DistilBERT, RoBERTa), improving classification accuracy by 10%. Applied k-NN and statistical methods to extract feedback patterns and generate actionable insights, enhancing developer engagement and experience.
 
 ## 🛠️ Skills
@@ -35,14 +41,14 @@ Researched and analyzed developer community interactions. Fine-tuned NLP models 
 
 ## 📚 Education
 
-- 🎓 BSc Computer Science @ UFMS (Dec 2025)  
+- 🎓 BSc Computer Science @ UFMS (Dec 2025)
 - 🏆 Technical Informatics @ IFMS (Dec 2021)
 
 ## 📞 Contacts
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:gefft3@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/geffte-caetano/) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Gefft3) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:gefft3@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/geffte-caetano/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Gefft3)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/geffte.caetano/)
 
 ![GitHub Snake](https://github.com/Gefft3/Gefft3/blob/output/github-contribution-grid-snake-dark.svg)

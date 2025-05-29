@@ -13,10 +13,8 @@ Full Stack Developer for a web platform enabling pest monitoring and control in 
 
 ### 😷 ECOS da Rota 
 AI Engineer for a participatory epidemiological surveillance project. Integrated LLaMA 3.1 via Ollama API and developed a RAG pipeline to automate data classification and insights generation, improving analysis accuracy by 60%.
-### 🌟 Positive Interaction Flow
-DevRel Researcher improving sentiment analysis in software team communications. Fine-tuned NLP models like DistilBERT and RoBERTa, increasing classification accuracy by 10% and providing actionable insights for team engagement.
-### 💬 Positive Sentiment on SO
-DevRel Researcher analyzing positive feedback patterns in StackOverflow interactions. Built a sentiment dataset, applied k-NN and statistical analysis, and generated insights to improve developer community engagement strategies.
+### 🌟 Developer Community Sentiment Analysis 
+Researched and analyzed developer community interactions. Fine-tuned NLP models (DistilBERT, RoBERTa), improving classification accuracy by 10%. Applied k-NN and statistical methods to extract feedback patterns and generate actionable insights, enhancing developer engagement and experience.
 
 ## 🛠️ Skills
 

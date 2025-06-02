@@ -8,12 +8,12 @@ I'm undergraduate Computer Science at UFMS. I really appreciate technology, deve
   src="https://github-readme-streak-stats.herokuapp.com/?user=Gefft3&theme=dark&hide_border=false"
   alt="Gefft3 GitHub Streak"
 />
-    
+  &nbsp;   
   <img
   src="https://github-readme-stats.vercel.app/api?username=Gefft3&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
   alt="Gefft3 GitHub Stats"
   />  
-
+  &nbsp;
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gefft3&theme=dark&hide_border=false&layout=compact"
     alt="Gefft3 Top Languages"

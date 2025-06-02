@@ -5,9 +5,11 @@ I'm undergraduate Computer Science at UFMS. I really appreciate technology, deve
 ### ⚙️ GitHub Analytics
 
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gefft3&theme=dark&hide_border=false" alt="Gefft3 GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Gefft3&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Gefft3 GitHub Stats" />
+<div align="center">
+  <a href="https://github.com/Gefft3">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Gefft3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gefft3&layout=compact&langs_count=7&theme=tokyonight" />
+  </a>
 </div>
 
 

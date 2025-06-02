@@ -4,36 +4,21 @@ I'm undergraduate Computer Science at UFMS. I really appreciate technology, deve
 
 ### ⚙️ GitHub Analytics
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=Gefft3&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
-        alt="Gefft3 GitHub Stats"
-      />
-    </td>
-    <td>
-   <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gefft3&theme=dark&hide_border=false&layout=compact"
-        alt="Gefft3 Top Languages"
-      />
-      </td>
-  </tr>
-  <tr>  
-      <td>
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Gefft3&theme=dark&hide_border=false"
-        alt="Gefft3 GitHub Streak"
-      />
-    </td>
-  </tr>
-</table>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Gefft3&theme=dark&hide_border=false"
+  alt="Gefft3 GitHub Streak"
+/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Gefft3&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+  alt="Gefft3 GitHub Stats"
+/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gefft3&theme=dark&hide_border=false&layout=compact"
+  alt="Gefft3 Top Languages"
+/>
 
 
---- 
+---
 
 ## 🚀 Ongoing Projects
 

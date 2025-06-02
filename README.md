@@ -13,14 +13,16 @@ I'm undergraduate Computer Science at UFMS. I really appreciate technology, deve
         alt="Gefft3 GitHub Stats"
       />
     </td>
-  </tr>
-  <tr>
-  <td>
+    <td>
    <img
         align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gefft3&theme=dark&hide_border=false&layout=compact"
         alt="Gefft3 Top Languages"
       />
+      </td>
+  </tr>
+  <tr>  
+      <td>
       <img
         align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=Gefft3&theme=dark&hide_border=false"

@@ -3,23 +3,12 @@
 I'm undergraduate Computer Science at UFMS. I really appreciate technology, development and automation, basically what's new.
 
 ### ⚙️ GitHub Analytics
-  
-  <table>
-    <tr>
-      <td>
-          <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Gefft3&theme=dark&hide_border=false"
-    alt="Gefft3 GitHub Streak"
-  />
-      </td>
-      <td>
-      <img
-    src="https://github-readme-stats.vercel.app/api?username=Gefft3&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
-    alt="Gefft3 GitHub Stats"
-  />
-      </td>
-    </tr>
-  </table>
+
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gefft3&theme=dark&hide_border=false" alt="Gefft3 GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gefft3&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Gefft3 GitHub Stats" />
+</div>
 
 
 ---
